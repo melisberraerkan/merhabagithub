@@ -2,5 +2,5 @@
 Bu depo GitHub öğrenirken açtığım ilk depo.
 
 ## Hobilerim
--spor
+- spor
 
